@@ -1,7 +1,6 @@
 # hello-world
 just another repository
-# have a try 
-yet
 
 
 okkkkkkk
+#1231231
